@@ -1,12 +1,14 @@
 {
   "expo": {
+    "splash": {
+      "image": "https://t4.ftcdn.net/jpg/05/05/61/73/360_F_505617309_NN1CW7diNmGXJfMicpY9eXHKV4sqzO5H.jpg",
+      "resizeMode": "fit"
+    },
     "scheme": "acme",
     "web": {
       "bundler": "metro"
     },
-    "plugins": [
-      "expo-router"
-    ],
+    "plugins": ["expo-router"],
     "name": "react_native_jobs",
     "slug": "react_native_jobs"
   }
