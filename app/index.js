@@ -51,7 +51,7 @@ const Home = () => {
             />
           ),
           headerRight: () => (
-            <ScreenHeaderBtn iconUrl={images.profile} dimension="100%" />
+            <ScreenHeaderBtn iconUrl={images.favicon} dimension="100%" />
           ),
           headerTitle: "",
         }}

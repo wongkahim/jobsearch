@@ -24,10 +24,11 @@ const styles = StyleSheet.create({
     marginTop: SIZES.small,
   },
   jobTitle: {
-    fontSize: SIZES.large,
+    fontSize: SIZES.medium,
     color: COLORS.primary,
     fontFamily: FONT.bold,
     textAlign: "center",
+    paddingHorizontal: 20,
   },
   companyInfoBox: {
     marginTop: SIZES.small / 2,
